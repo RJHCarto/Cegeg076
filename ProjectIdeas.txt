@@ -1,0 +1,6 @@
+Project Ideas - 
+
+DIY Projects (Option 2)
+Datasets:
+- crime
+- environmental (satellite?)

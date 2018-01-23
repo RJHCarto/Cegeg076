@@ -3,4 +3,7 @@ Project Ideas -
 DIY Projects (Option 2)
 Datasets:
 - crime
-- environmental (satellite?)
+- environmental
+	~ Satellite
+	~ Air Quality
+	~ Water Quality for a body of water (Harbour?)

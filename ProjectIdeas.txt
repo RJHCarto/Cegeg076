@@ -8,3 +8,20 @@ Datasets:
 	~ Satellite
 	~ Air Quality
 	~ Water Quality for a body of water (Harbour?)
+- social
+	~ school test scores?
+	~ newspaper headline data - spatiotemporal sentiment analysis
+	~ 311 data 
+		- SF: https://data.sfgov.org/City-Infrastructure/311-Cases/vw6y-z8j6
+		(see also http://ieeexplore.ieee.org/document/7034832/)
+		- DC: http://opendata.dc.gov/datasets/city-service-requests-in-2017
+		- NYC: https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9
+		- BOS: https://data.boston.gov/dataset/311-service-requests/resource/2968e2c0-d479-49ba-a884-4ef523ada3c0
+		- Multiple: http://us-city.census.okfn.org/dataset/service-requests
+	~ NHS 111 Dataset 
+		(https://www.england.nhs.uk/statistics/statistical-work-areas/nhs-111-minimum-data-set/nhs-111-minimum-data-set-2016-17/)
+	~ DC dead animals
+		http://opendata.dc.gov/datasets/dead-animal-pickup-in-last-30-days?page=15
+	~ birthday maps?
+		https://www.statslife.org.uk/social-sciences/3199-what-is-the-most-popular-birthday-in-england-and-wales
+		by month and area
